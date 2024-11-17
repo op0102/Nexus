@@ -1,0 +1,40 @@
+.Main_Header {
+    align-items: center;
+    display: flex;
+    justify-content: right;
+
+}
+
+.Header_Left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 45px;
+    color: #979cb6;
+}
+
+.Header_Left>a {
+    margin-left: 27px;
+    margin-right: 27px;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: #979cb6;
+
+}
+
+.phone {
+    /* background-color: rgba(0, 0, 0, 0); */
+    padding: 4px 8px;
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+.phone:hover {
+    background-color: #bfe632;
+    border-radius: 20px;
+    font-weight: 700;
+    color: black;
+}

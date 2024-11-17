@@ -1,0 +1,11 @@
+
+
+.App_Banner_Area{
+  background-image:	url("https://nexusautotransport.com/img/homev2/banner-small.webp");
+  padding-top: 18px;
+  padding-bottom: 60px;
+  min-height: 1080px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
